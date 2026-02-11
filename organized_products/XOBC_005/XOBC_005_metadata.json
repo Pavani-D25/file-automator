@@ -1,0 +1,19 @@
+{
+  "product_id": "XOBC_005",
+  "created_at": "2026-02-04T15:51:01.905245",
+  "files": {
+    "zip": "XOBC_005.zip",
+    "glb": "XOBC_005.glb",
+    "thumbnail": "XOBC_005_thumbnail.png"
+  },
+  "zip_contents": {
+    "gltf": "XOBC_005.gltf",
+    "bin": "XOBC_005.bin",
+    "textures": [
+      "DefaultMaterial_baseColor_1001.png",
+      "DefaultMaterial_normal_1001.png",
+      "DefaultMaterial_occlusionRoughnessMetallic_1001.png"
+    ]
+  },
+  "status": "processed"
+}

@@ -1,0 +1,404 @@
+2026-02-03 13:01:28,037 - INFO - ======================================================================
+2026-02-03 13:01:28,037 - INFO - PRODUCT ASSET ORGANIZER
+2026-02-03 13:01:28,038 - INFO - ======================================================================
+2026-02-03 13:01:28,038 - INFO - Scanning directory: raw_assets
+2026-02-03 13:01:28,040 - INFO - Found 5 product(s)
+2026-02-03 13:01:28,113 - INFO -   Created folder: PROD001/
+2026-02-03 13:01:28,114 - INFO -     Added to ZIP: PROD001_model.gltf
+2026-02-03 13:01:28,115 - INFO -     Added to ZIP: PROD001_model.bin
+2026-02-03 13:01:28,134 - INFO -     Added to ZIP: PROD001_DefaultMaterial_baseColor_1001.png
+2026-02-03 13:01:28,138 - INFO -     Added to ZIP: PROD001_DefaultMaterial_normal_1001.png
+2026-02-03 13:01:28,141 - INFO -     Added to ZIP: PROD001_DefaultMaterial_occlusionRoughnessMetallic_1001.png
+2026-02-03 13:01:28,173 - INFO -   Created folder: PROD002/
+2026-02-03 13:01:28,174 - INFO -     Added to ZIP: PROD002_model.gltf
+2026-02-03 13:01:28,175 - INFO -     Added to ZIP: PROD002_model.bin
+2026-02-03 13:01:28,177 - INFO -     Added to ZIP: PROD002_DefaultMaterial_baseColor_1001.png
+2026-02-03 13:01:28,179 - INFO -     Added to ZIP: PROD002_DefaultMaterial_normal_1001.png
+2026-02-03 13:01:28,181 - INFO -     Added to ZIP: PROD002_DefaultMaterial_occlusionRoughnessMetallic_1001.png
+2026-02-03 13:01:28,199 - INFO -   Created folder: PROD003/
+2026-02-03 13:01:28,200 - INFO -     Added to ZIP: PROD003_model.gltf
+2026-02-03 13:01:28,201 - INFO -     Added to ZIP: PROD003_model.bin
+2026-02-03 13:01:28,202 - INFO -     Added to ZIP: PROD003_DefaultMaterial_baseColor_1001.png
+2026-02-03 13:01:28,206 - INFO -     Added to ZIP: PROD003_DefaultMaterial_normal_1001.png
+2026-02-03 13:01:28,208 - INFO -     Added to ZIP: PROD003_DefaultMaterial_occlusionRoughnessMetallic_1001.png
+2026-02-03 13:01:28,226 - WARNING -     - Missing .gltf file
+2026-02-03 13:01:28,226 - WARNING -     - Missing .bin file
+2026-02-03 13:01:28,226 - WARNING -     - Missing .glb file
+2026-02-03 13:01:28,227 - WARNING -     - Missing thumbnail .png file
+2026-02-03 13:01:28,232 - WARNING -     - Only 0 texture(s) found (need 3)
+2026-02-03 13:01:28,233 - WARNING -     - Missing thumbnail .png file
+2026-02-03 13:01:28,233 - INFO -   Created folder: XOBC/
+2026-02-03 13:01:28,235 - INFO -     Added to ZIP: XOBC_005.gltf
+2026-02-03 13:01:28,246 - INFO -     Added to ZIP: XOBC_005.bin
+2026-02-03 13:01:28,262 - INFO - 
+======================================================================
+2026-02-03 13:01:28,262 - INFO - SUMMARY
+2026-02-03 13:01:28,262 - INFO - ======================================================================
+2026-02-03 13:01:28,262 - INFO - Total products:        5
+2026-02-03 13:01:28,263 - INFO - Successfully processed: 4
+2026-02-03 13:01:28,263 - INFO - Failed:                1
+2026-02-03 13:01:28,263 - INFO - 
+Local Output: C:\Users\dpava\OneDrive\Desktop\file-automator\organized_products
+2026-02-03 13:01:28,263 - INFO - ======================================================================
+2026-02-03 13:07:19,792 - INFO - ======================================================================
+2026-02-03 13:07:19,792 - INFO - PRODUCT ASSET ORGANIZER
+2026-02-03 13:07:19,792 - INFO - ======================================================================
+2026-02-03 13:07:19,793 - INFO - Scanning directory: raw_assets
+2026-02-03 13:07:19,795 - INFO - Found 8 product(s)
+2026-02-03 13:07:19,799 - INFO -   Created folder: PROD001/
+2026-02-03 13:07:19,801 - INFO -     Added to ZIP: PROD001_model.gltf
+2026-02-03 13:07:19,801 - INFO -     Added to ZIP: PROD001_model.bin
+2026-02-03 13:07:19,802 - INFO -     Added to ZIP: PROD001_DefaultMaterial_baseColor_1001.png
+2026-02-03 13:07:19,802 - INFO -     Added to ZIP: PROD001_DefaultMaterial_normal_1001.png
+2026-02-03 13:07:19,803 - INFO -     Added to ZIP: PROD001_DefaultMaterial_occlusionRoughnessMetallic_1001.png
+2026-02-03 13:07:19,819 - INFO -   Created folder: PROD002/
+2026-02-03 13:07:19,821 - INFO -     Added to ZIP: PROD002_model.gltf
+2026-02-03 13:07:19,821 - INFO -     Added to ZIP: PROD002_model.bin
+2026-02-03 13:07:19,822 - INFO -     Added to ZIP: PROD002_DefaultMaterial_baseColor_1001.png
+2026-02-03 13:07:19,822 - INFO -     Added to ZIP: PROD002_DefaultMaterial_normal_1001.png
+2026-02-03 13:07:19,823 - INFO -     Added to ZIP: PROD002_DefaultMaterial_occlusionRoughnessMetallic_1001.png
+2026-02-03 13:07:19,840 - INFO -   Created folder: PROD003/
+2026-02-03 13:07:19,841 - INFO -     Added to ZIP: PROD003_model.gltf
+2026-02-03 13:07:19,842 - INFO -     Added to ZIP: PROD003_model.bin
+2026-02-03 13:07:19,843 - INFO -     Added to ZIP: PROD003_DefaultMaterial_baseColor_1001.png
+2026-02-03 13:07:19,843 - INFO -     Added to ZIP: PROD003_DefaultMaterial_normal_1001.png
+2026-02-03 13:07:19,844 - INFO -     Added to ZIP: PROD003_DefaultMaterial_occlusionRoughnessMetallic_1001.png
+2026-02-03 13:07:19,860 - WARNING -     - Missing .gltf file
+2026-02-03 13:07:19,861 - WARNING -     - Missing .bin file
+2026-02-03 13:07:19,861 - WARNING -     - Missing .glb file
+2026-02-03 13:07:19,861 - WARNING -     - Missing thumbnail .png file
+2026-02-03 13:07:19,866 - WARNING -     - Only 0 texture(s) found (need 3)
+2026-02-03 13:07:19,866 - WARNING -     - Missing thumbnail .png file
+2026-02-03 13:07:19,867 - INFO -   Created folder: XOBC_005/
+2026-02-03 13:07:19,868 - INFO -     Added to ZIP: XOBC_005.gltf
+2026-02-03 13:07:19,877 - INFO -     Added to ZIP: XOBC_005.bin
+2026-02-03 13:07:19,894 - WARNING -     - Only 0 texture(s) found (need 3)
+2026-02-03 13:07:19,894 - WARNING -     - Missing thumbnail .png file
+2026-02-03 13:07:19,895 - INFO -   Created folder: XOBC_010/
+2026-02-03 13:07:19,896 - INFO -     Added to ZIP: XOBC_010.gltf
+2026-02-03 13:07:19,931 - INFO -     Added to ZIP: XOBC_010.bin
+2026-02-03 13:07:19,950 - WARNING -     - Only 0 texture(s) found (need 3)
+2026-02-03 13:07:19,950 - WARNING -     - Missing thumbnail .png file
+2026-02-03 13:07:19,951 - INFO -   Created folder: XOBC_013/
+2026-02-03 13:07:19,952 - INFO -     Added to ZIP: XOBC_013.gltf
+2026-02-03 13:07:20,014 - INFO -     Added to ZIP: XOBC_013.bin
+2026-02-03 13:07:20,034 - WARNING -     - Only 0 texture(s) found (need 3)
+2026-02-03 13:07:20,034 - WARNING -     - Missing thumbnail .png file
+2026-02-03 13:07:20,035 - INFO -   Created folder: XOBC_016/
+2026-02-03 13:07:20,037 - INFO -     Added to ZIP: XOBC_016.gltf
+2026-02-03 13:07:20,201 - INFO -     Added to ZIP: XOBC_016.bin
+2026-02-03 13:07:20,215 - INFO - 
+======================================================================
+2026-02-03 13:07:20,215 - INFO - SUMMARY
+2026-02-03 13:07:20,216 - INFO - ======================================================================
+2026-02-03 13:07:20,216 - INFO - Total products:        8
+2026-02-03 13:07:20,216 - INFO - Successfully processed: 7
+2026-02-03 13:07:20,216 - INFO - Failed:                1
+2026-02-03 13:07:20,216 - INFO - 
+Local Output: C:\Users\dpava\OneDrive\Desktop\file-automator\organized_products
+2026-02-03 13:07:20,216 - INFO - ======================================================================
+2026-02-03 13:13:09,285 - INFO - ======================================================================
+2026-02-03 13:13:09,285 - INFO - PRODUCT ASSET ORGANIZER
+2026-02-03 13:13:09,285 - INFO - ======================================================================
+2026-02-03 13:13:09,285 - INFO - Scanning directory: raw_assets
+2026-02-03 13:13:09,288 - INFO - Found 8 product(s)
+2026-02-03 13:13:09,291 - INFO -   Created folder: PROD001/
+2026-02-03 13:13:09,292 - INFO -     Added to ZIP: PROD001_model.gltf
+2026-02-03 13:13:09,292 - INFO -     Added to ZIP: PROD001_model.bin
+2026-02-03 13:13:09,293 - INFO -     Added to ZIP: PROD001_DefaultMaterial_baseColor_1001.png
+2026-02-03 13:13:09,295 - INFO -     Added to ZIP: PROD001_DefaultMaterial_normal_1001.png
+2026-02-03 13:13:09,296 - INFO -     Added to ZIP: PROD001_DefaultMaterial_occlusionRoughnessMetallic_1001.png
+2026-02-03 13:13:09,304 - INFO -   Created folder: PROD002/
+2026-02-03 13:13:09,305 - INFO -     Added to ZIP: PROD002_model.gltf
+2026-02-03 13:13:09,305 - INFO -     Added to ZIP: PROD002_model.bin
+2026-02-03 13:13:09,308 - INFO -     Added to ZIP: PROD002_DefaultMaterial_baseColor_1001.png
+2026-02-03 13:13:09,310 - INFO -     Added to ZIP: PROD002_DefaultMaterial_normal_1001.png
+2026-02-03 13:13:09,311 - INFO -     Added to ZIP: PROD002_DefaultMaterial_occlusionRoughnessMetallic_1001.png
+2026-02-03 13:13:09,331 - INFO -   Created folder: PROD003/
+2026-02-03 13:13:09,332 - INFO -     Added to ZIP: PROD003_model.gltf
+2026-02-03 13:13:09,332 - INFO -     Added to ZIP: PROD003_model.bin
+2026-02-03 13:13:09,334 - INFO -     Added to ZIP: PROD003_DefaultMaterial_baseColor_1001.png
+2026-02-03 13:13:09,335 - INFO -     Added to ZIP: PROD003_DefaultMaterial_normal_1001.png
+2026-02-03 13:13:09,337 - INFO -     Added to ZIP: PROD003_DefaultMaterial_occlusionRoughnessMetallic_1001.png
+2026-02-03 13:13:09,353 - WARNING -     - Missing .gltf file
+2026-02-03 13:13:09,353 - WARNING -     - Missing .bin file
+2026-02-03 13:13:09,353 - WARNING -     - Missing .glb file
+2026-02-03 13:13:09,353 - WARNING -     - Missing thumbnail .png file
+2026-02-03 13:13:09,357 - WARNING -     - Only 0 texture(s) found (need 3)
+2026-02-03 13:13:09,357 - WARNING -     - Missing thumbnail .png file
+2026-02-03 13:13:09,358 - INFO -   Created folder: XOBC_005/
+2026-02-03 13:13:09,359 - INFO -     Added to ZIP: XOBC_005.gltf
+2026-02-03 13:13:09,367 - INFO -     Added to ZIP: XOBC_005.bin
+2026-02-03 13:14:17,004 - INFO - ======================================================================
+2026-02-03 13:14:17,004 - INFO - PRODUCT ASSET ORGANIZER
+2026-02-03 13:14:17,005 - INFO - ======================================================================
+2026-02-03 13:14:17,005 - INFO - Scanning directory: raw_assets
+2026-02-03 13:14:17,008 - INFO - Found 8 product(s)
+2026-02-03 13:14:17,013 - INFO -   Created folder: PROD001/
+2026-02-03 13:14:17,015 - INFO -     Added to ZIP: PROD001_model.gltf
+2026-02-03 13:14:17,015 - INFO -     Added to ZIP: PROD001_model.bin
+2026-02-03 13:14:17,016 - INFO -     Added to ZIP: PROD001_DefaultMaterial_baseColor_1001.png
+2026-02-03 13:14:17,016 - INFO -     Added to ZIP: PROD001_DefaultMaterial_normal_1001.png
+2026-02-03 13:14:17,017 - INFO -     Added to ZIP: PROD001_DefaultMaterial_occlusionRoughnessMetallic_1001.png
+2026-02-03 13:14:17,034 - INFO -   Created folder: PROD002/
+2026-02-03 13:14:17,035 - INFO -     Added to ZIP: PROD002_model.gltf
+2026-02-03 13:14:17,036 - INFO -     Added to ZIP: PROD002_model.bin
+2026-02-03 13:14:17,037 - INFO -     Added to ZIP: PROD002_DefaultMaterial_baseColor_1001.png
+2026-02-03 13:14:17,038 - INFO -     Added to ZIP: PROD002_DefaultMaterial_normal_1001.png
+2026-02-03 13:14:17,038 - INFO -     Added to ZIP: PROD002_DefaultMaterial_occlusionRoughnessMetallic_1001.png
+2026-02-03 13:14:17,054 - INFO -   Created folder: PROD003/
+2026-02-03 13:14:17,055 - INFO -     Added to ZIP: PROD003_model.gltf
+2026-02-03 13:14:17,056 - INFO -     Added to ZIP: PROD003_model.bin
+2026-02-03 13:14:17,056 - INFO -     Added to ZIP: PROD003_DefaultMaterial_baseColor_1001.png
+2026-02-03 13:14:17,057 - INFO -     Added to ZIP: PROD003_DefaultMaterial_normal_1001.png
+2026-02-03 13:14:17,057 - INFO -     Added to ZIP: PROD003_DefaultMaterial_occlusionRoughnessMetallic_1001.png
+2026-02-03 13:14:17,074 - WARNING -     - Missing .gltf file
+2026-02-03 13:14:17,074 - WARNING -     - Missing .bin file
+2026-02-03 13:14:17,074 - WARNING -     - Missing .glb file
+2026-02-03 13:14:17,075 - WARNING -     - Missing thumbnail .png file
+2026-02-03 13:14:17,080 - WARNING -     - Only 0 texture(s) found (need 3)
+2026-02-03 13:14:17,080 - WARNING -     - Missing thumbnail .png file
+2026-02-03 13:14:17,081 - INFO -   Created folder: XOBC_005/
+2026-02-03 13:14:17,082 - INFO -     Added to ZIP: XOBC_005.gltf
+2026-02-03 13:14:17,091 - INFO -     Added to ZIP: XOBC_005.bin
+2026-02-03 13:14:17,107 - WARNING -     - Only 0 texture(s) found (need 3)
+2026-02-03 13:14:17,107 - WARNING -     - Missing thumbnail .png file
+2026-02-03 13:14:17,108 - INFO -   Created folder: XOBC_010/
+2026-02-03 13:14:17,109 - INFO -     Added to ZIP: XOBC_010.gltf
+2026-02-03 13:14:17,143 - INFO -     Added to ZIP: XOBC_010.bin
+2026-02-03 13:14:17,163 - WARNING -     - Only 0 texture(s) found (need 3)
+2026-02-03 13:14:17,163 - WARNING -     - Missing thumbnail .png file
+2026-02-03 13:14:17,164 - INFO -   Created folder: XOBC_013/
+2026-02-03 13:14:17,165 - INFO -     Added to ZIP: XOBC_013.gltf
+2026-02-03 13:14:17,227 - INFO -     Added to ZIP: XOBC_013.bin
+2026-02-03 13:14:17,247 - WARNING -     - Only 0 texture(s) found (need 3)
+2026-02-03 13:14:17,247 - WARNING -     - Missing thumbnail .png file
+2026-02-03 13:14:17,248 - INFO -   Created folder: XOBC_016/
+2026-02-03 13:14:17,249 - INFO -     Added to ZIP: XOBC_016.gltf
+2026-02-03 13:14:17,407 - INFO -     Added to ZIP: XOBC_016.bin
+2026-02-03 13:14:17,425 - INFO - 
+======================================================================
+2026-02-03 13:14:17,425 - INFO - SUMMARY
+2026-02-03 13:14:17,425 - INFO - ======================================================================
+2026-02-03 13:14:17,425 - INFO - Total products:        8
+2026-02-03 13:14:17,425 - INFO - Successfully processed: 7
+2026-02-03 13:14:17,425 - INFO - Failed:                1
+2026-02-03 13:14:17,425 - INFO - 
+Local Output: C:\Users\dpava\OneDrive\Desktop\file-automator\organized_products
+2026-02-03 13:14:17,425 - INFO - ======================================================================
+2026-02-03 13:18:07,257 - INFO - ======================================================================
+2026-02-03 13:18:07,258 - INFO - PRODUCT ASSET ORGANIZER
+2026-02-03 13:18:07,258 - INFO - ======================================================================
+2026-02-03 13:18:07,258 - INFO - Scanning directory: raw_assets
+2026-02-03 13:18:07,260 - INFO - Found 5 product(s)
+2026-02-03 13:18:07,265 - INFO -   Created folder: PROD001/
+2026-02-03 13:18:07,267 - INFO -     Added to ZIP: PROD001_model.gltf
+2026-02-03 13:18:07,267 - INFO -     Added to ZIP: PROD001_model.bin
+2026-02-03 13:18:07,271 - INFO -     Added to ZIP: PROD001_DefaultMaterial_baseColor_1001.png
+2026-02-03 13:18:07,275 - INFO -     Added to ZIP: PROD001_DefaultMaterial_normal_1001.png
+2026-02-03 13:18:07,278 - INFO -     Added to ZIP: PROD001_DefaultMaterial_occlusionRoughnessMetallic_1001.png
+2026-02-03 13:18:07,298 - INFO -   Created folder: PROD002/
+2026-02-03 13:18:07,299 - INFO -     Added to ZIP: PROD002_model.gltf
+2026-02-03 13:18:07,299 - INFO -     Added to ZIP: PROD002_model.bin
+2026-02-03 13:18:07,300 - INFO -     Added to ZIP: PROD002_DefaultMaterial_baseColor_1001.png
+2026-02-03 13:18:07,302 - INFO -     Added to ZIP: PROD002_DefaultMaterial_normal_1001.png
+2026-02-03 13:18:07,304 - INFO -     Added to ZIP: PROD002_DefaultMaterial_occlusionRoughnessMetallic_1001.png
+2026-02-03 13:18:07,319 - INFO -   Created folder: PROD003/
+2026-02-03 13:18:07,320 - INFO -     Added to ZIP: PROD003_model.gltf
+2026-02-03 13:18:07,322 - INFO -     Added to ZIP: PROD003_model.bin
+2026-02-03 13:18:07,323 - INFO -     Added to ZIP: PROD003_DefaultMaterial_baseColor_1001.png
+2026-02-03 13:18:07,325 - INFO -     Added to ZIP: PROD003_DefaultMaterial_normal_1001.png
+2026-02-03 13:18:07,327 - INFO -     Added to ZIP: PROD003_DefaultMaterial_occlusionRoughnessMetallic_1001.png
+2026-02-03 13:18:07,339 - WARNING -     - Missing .gltf file
+2026-02-03 13:18:07,339 - WARNING -     - Missing .bin file
+2026-02-03 13:18:07,339 - WARNING -     - Missing .glb file
+2026-02-03 13:18:07,340 - WARNING -     - Missing thumbnail .png file
+2026-02-03 13:18:07,345 - WARNING -     - Only 0 texture(s) found (need 3)
+2026-02-03 13:18:07,345 - WARNING -     - Missing thumbnail .png file
+2026-02-03 13:18:07,345 - INFO -   Created folder: XOBC/
+2026-02-03 13:18:07,346 - INFO -     Added to ZIP: XOBC_005.gltf
+2026-02-03 13:18:07,354 - INFO -     Added to ZIP: XOBC_005.bin
+2026-02-03 13:18:07,373 - INFO - 
+======================================================================
+2026-02-03 13:18:07,373 - INFO - SUMMARY
+2026-02-03 13:18:07,373 - INFO - ======================================================================
+2026-02-03 13:18:07,373 - INFO - Total products:        5
+2026-02-03 13:18:07,374 - INFO - Successfully processed: 4
+2026-02-03 13:18:07,374 - INFO - Failed:                1
+2026-02-03 13:18:07,374 - INFO - 
+Local Output: C:\Users\dpava\OneDrive\Desktop\file-automator\organized_products
+2026-02-03 13:18:07,374 - INFO - ======================================================================
+2026-02-04 15:35:49,840 - INFO - ======================================================================
+2026-02-04 15:35:49,841 - INFO - PRODUCT ASSET ORGANIZER
+2026-02-04 15:35:49,841 - INFO - ======================================================================
+2026-02-04 15:35:49,841 - INFO - Scanning directory: raw_assets
+2026-02-04 15:35:49,843 - INFO - Found 2 product(s)
+2026-02-04 15:35:49,915 - WARNING -     - Missing .gltf file
+2026-02-04 15:35:49,915 - WARNING -     - Missing .bin file
+2026-02-04 15:35:49,916 - WARNING -     - Missing .glb file
+2026-02-04 15:35:49,916 - WARNING -     - Missing thumbnail .png file
+2026-02-04 15:35:49,923 - WARNING -     - Only 0 texture(s) found (need 3)
+2026-02-04 15:35:49,923 - WARNING -     - Missing thumbnail .png file
+2026-02-04 15:35:49,923 - INFO -   Created folder: XOBC/
+2026-02-04 15:35:49,925 - INFO -     Added to ZIP: XOBC_005.gltf
+2026-02-04 15:35:49,934 - INFO -     Added to ZIP: XOBC_005.bin
+2026-02-04 15:35:49,947 - INFO - 
+======================================================================
+2026-02-04 15:35:49,947 - INFO - SUMMARY
+2026-02-04 15:35:49,947 - INFO - ======================================================================
+2026-02-04 15:35:49,947 - INFO - Total products:        2
+2026-02-04 15:35:49,948 - INFO - Successfully processed: 1
+2026-02-04 15:35:49,948 - INFO - Failed:                1
+2026-02-04 15:35:49,948 - INFO - 
+Local Output: C:\Users\dpava\OneDrive\Desktop\file-automator\organized_products
+2026-02-04 15:35:49,948 - INFO - ======================================================================
+2026-02-04 15:45:24,780 - INFO - ======================================================================
+2026-02-04 15:45:24,782 - INFO - PRODUCT ASSET ORGANIZER
+2026-02-04 15:45:24,782 - INFO - ======================================================================
+2026-02-04 15:45:24,783 - INFO - Scanning directory: raw_assets
+2026-02-04 15:45:24,788 - INFO - Found 2 product(s)
+2026-02-04 15:45:24,802 - WARNING -     - Missing .gltf file
+2026-02-04 15:45:24,802 - WARNING -     - Missing .bin file
+2026-02-04 15:45:24,802 - WARNING -     - Missing .glb file
+2026-02-04 15:45:24,802 - WARNING -     - Missing thumbnail .png file
+2026-02-04 15:45:24,810 - WARNING -     - Only 0 texture(s) found (need 3)
+2026-02-04 15:45:24,811 - WARNING -     - Missing thumbnail .png file
+2026-02-04 15:45:24,811 - INFO -   Created folder: XOBC/
+2026-02-04 15:45:24,816 - INFO -     Added to ZIP: XOBC_005.gltf
+2026-02-04 15:45:24,824 - INFO -     Added to ZIP: XOBC_005.bin
+2026-02-04 15:45:24,844 - INFO - 
+======================================================================
+2026-02-04 15:45:24,844 - INFO - SUMMARY
+2026-02-04 15:45:24,845 - INFO - ======================================================================
+2026-02-04 15:45:24,845 - INFO - Total products:        2
+2026-02-04 15:45:24,845 - INFO - Successfully processed: 1
+2026-02-04 15:45:24,845 - INFO - Failed:                1
+2026-02-04 15:45:24,845 - INFO - 
+Local Output: C:\Users\dpava\OneDrive\Desktop\file-automator\organized_products
+2026-02-04 15:45:24,846 - INFO - ======================================================================
+2026-02-04 15:47:19,230 - INFO - ======================================================================
+2026-02-04 15:47:19,231 - INFO - PRODUCT ASSET ORGANIZER
+2026-02-04 15:47:19,231 - INFO - ======================================================================
+2026-02-04 15:47:19,231 - INFO - Scanning directory: raw_assets
+2026-02-04 15:47:19,233 - INFO - Found 2 product(s)
+2026-02-04 15:47:19,238 - WARNING -     - Missing .gltf file
+2026-02-04 15:47:19,238 - WARNING -     - Missing .bin file
+2026-02-04 15:47:19,238 - WARNING -     - Missing .glb file
+2026-02-04 15:47:19,239 - WARNING -     - Missing thumbnail .png file
+2026-02-04 15:47:19,248 - WARNING -     - Only 0 texture(s) found (need 3)
+2026-02-04 15:47:19,248 - WARNING -     - Missing thumbnail .png file
+2026-02-04 15:47:19,249 - INFO -   Created folder: XOBC/
+2026-02-04 15:47:19,252 - INFO -     Added to ZIP: XOBC_010.gltf
+2026-02-04 15:47:19,293 - INFO -     Added to ZIP: XOBC_010.bin
+2026-02-04 15:47:19,315 - INFO - 
+======================================================================
+2026-02-04 15:47:19,315 - INFO - SUMMARY
+2026-02-04 15:47:19,315 - INFO - ======================================================================
+2026-02-04 15:47:19,316 - INFO - Total products:        2
+2026-02-04 15:47:19,316 - INFO - Successfully processed: 1
+2026-02-04 15:47:19,316 - INFO - Failed:                1
+2026-02-04 15:47:19,316 - INFO - 
+Local Output: C:\Users\dpava\OneDrive\Desktop\file-automator\organized_products
+2026-02-04 15:47:19,316 - INFO - ======================================================================
+2026-02-04 15:48:48,927 - INFO - ======================================================================
+2026-02-04 15:48:48,927 - INFO - PRODUCT ASSET ORGANIZER
+2026-02-04 15:48:48,927 - INFO - ======================================================================
+2026-02-04 15:48:48,928 - INFO - Scanning directory: raw_assets
+2026-02-04 15:48:48,929 - INFO - Found 2 product(s)
+2026-02-04 15:48:48,934 - WARNING -     - Missing .gltf file
+2026-02-04 15:48:48,934 - WARNING -     - Missing .bin file
+2026-02-04 15:48:48,934 - WARNING -     - Missing .glb file
+2026-02-04 15:48:48,935 - WARNING -     - Missing thumbnail .png file
+2026-02-04 15:48:48,939 - WARNING -     - Only 0 texture(s) found (need 3)
+2026-02-04 15:48:48,939 - WARNING -     - Missing thumbnail .png file
+2026-02-04 15:48:48,940 - INFO -   Created folder: XOBC/
+2026-02-04 15:48:48,941 - INFO -     Added to ZIP: XOBC_005.gltf
+2026-02-04 15:48:48,949 - INFO -     Added to ZIP: XOBC_005.bin
+2026-02-04 15:48:48,966 - INFO - 
+======================================================================
+2026-02-04 15:48:48,966 - INFO - SUMMARY
+2026-02-04 15:48:48,966 - INFO - ======================================================================
+2026-02-04 15:48:48,966 - INFO - Total products:        2
+2026-02-04 15:48:48,966 - INFO - Successfully processed: 1
+2026-02-04 15:48:48,967 - INFO - Failed:                1
+2026-02-04 15:48:48,967 - INFO - 
+Local Output: C:\Users\dpava\OneDrive\Desktop\file-automator\organized_products
+2026-02-04 15:48:48,967 - INFO - ======================================================================
+2026-02-04 15:50:31,158 - INFO - ======================================================================
+2026-02-04 15:50:31,158 - INFO - PRODUCT ASSET ORGANIZER
+2026-02-04 15:50:31,158 - INFO - ======================================================================
+2026-02-04 15:50:31,158 - INFO - Scanning directory: raw_assets
+2026-02-04 15:50:31,160 - INFO - Found 4 product(s)
+2026-02-04 15:50:31,163 - INFO -   Created folder: XOBC_005/
+2026-02-04 15:50:31,165 - INFO -     Added to ZIP: XOBC_005.gltf
+2026-02-04 15:50:31,172 - INFO -     Added to ZIP: XOBC_005.bin
+2026-02-04 15:50:31,205 - INFO -     Added to ZIP: DefaultMaterial_baseColor_1001.png
+2026-02-04 15:50:31,503 - INFO -     Added to ZIP: DefaultMaterial_normal_1001.png
+2026-02-04 15:50:31,567 - INFO -     Added to ZIP: DefaultMaterial_occlusionRoughnessMetallic_1001.png
+2026-02-04 15:50:31,594 - INFO -   Created folder: XOBC_010/
+2026-02-04 15:50:31,595 - INFO -     Added to ZIP: XOBC_010.gltf
+2026-02-04 15:50:31,628 - INFO -     Added to ZIP: XOBC_010.bin
+2026-02-04 15:50:31,817 - INFO -     Added to ZIP: DefaultMaterial_baseColor.png
+2026-02-04 15:50:32,019 - INFO -     Added to ZIP: DefaultMaterial_normal.png
+2026-02-04 15:50:32,206 - INFO -     Added to ZIP: DefaultMaterial_occlusionRoughnessMetallic.png
+2026-02-04 15:50:32,226 - INFO -   Created folder: XOBC_013/
+2026-02-04 15:50:32,227 - INFO -     Added to ZIP: XOBC_013.gltf
+2026-02-04 15:50:32,289 - INFO -     Added to ZIP: XOBC_013.bin
+2026-02-04 15:50:32,407 - INFO -     Added to ZIP: DefaultMaterial_baseColor_1001.png
+2026-02-04 15:50:32,740 - INFO -     Added to ZIP: DefaultMaterial_normal_1001.png
+2026-02-04 15:50:32,860 - INFO -     Added to ZIP: DefaultMaterial_occlusionRoughnessMetallic_1001.png
+2026-02-04 15:50:32,884 - INFO -   Created folder: XOBC_016/
+2026-02-04 15:50:32,885 - INFO -     Added to ZIP: XOBC_016.gltf
+2026-02-04 15:50:33,048 - INFO -     Added to ZIP: XOBC_016.bin
+2026-02-04 15:50:33,208 - INFO -     Added to ZIP: DefaultMaterial_baseColor_1001.png
+2026-02-04 15:50:33,575 - INFO -     Added to ZIP: DefaultMaterial_normal_1001.png
+2026-02-04 15:50:33,677 - INFO -     Added to ZIP: DefaultMaterial_occlusionRoughnessMetallic_1001.png
+2026-02-04 15:50:33,697 - INFO - 
+======================================================================
+2026-02-04 15:50:33,697 - INFO - SUMMARY
+2026-02-04 15:50:33,697 - INFO - ======================================================================
+2026-02-04 15:50:33,697 - INFO - Total products:        4
+2026-02-04 15:50:33,697 - INFO - Successfully processed: 4
+2026-02-04 15:50:33,698 - INFO - Failed:                0
+2026-02-04 15:50:33,698 - INFO - 
+Local Output: C:\Users\dpava\OneDrive\Desktop\file-automator\organized_products
+2026-02-04 15:50:33,698 - INFO - ======================================================================
+2026-02-04 15:51:01,560 - INFO - ======================================================================
+2026-02-04 15:51:01,560 - INFO - PRODUCT ASSET ORGANIZER
+2026-02-04 15:51:01,561 - INFO - ======================================================================
+2026-02-04 15:51:01,561 - INFO - Scanning directory: raw_assets
+2026-02-04 15:51:01,562 - INFO - Found 4 product(s)
+2026-02-04 15:51:01,566 - INFO -   Created folder: XOBC_005/
+2026-02-04 15:51:01,567 - INFO -     Added to ZIP: XOBC_005.gltf
+2026-02-04 15:51:01,576 - INFO -     Added to ZIP: XOBC_005.bin
+2026-02-04 15:51:01,584 - INFO -     Added to ZIP: DefaultMaterial_baseColor_1001.png
+2026-02-04 15:51:01,845 - INFO -     Added to ZIP: DefaultMaterial_normal_1001.png
+2026-02-04 15:51:01,883 - INFO -     Added to ZIP: DefaultMaterial_occlusionRoughnessMetallic_1001.png
+2026-02-04 15:51:01,910 - INFO -   Created folder: XOBC_010/
+2026-02-04 15:51:01,911 - INFO -     Added to ZIP: XOBC_010.gltf
+2026-02-04 15:51:01,947 - INFO -     Added to ZIP: XOBC_010.bin
+2026-02-04 15:51:02,109 - INFO -     Added to ZIP: DefaultMaterial_baseColor.png
+2026-02-04 15:51:02,288 - INFO -     Added to ZIP: DefaultMaterial_normal.png
+2026-02-04 15:51:02,450 - INFO -     Added to ZIP: DefaultMaterial_occlusionRoughnessMetallic.png
+2026-02-04 15:51:02,477 - INFO -   Created folder: XOBC_013/
+2026-02-04 15:51:02,478 - INFO -     Added to ZIP: XOBC_013.gltf
+2026-02-04 15:51:02,539 - INFO -     Added to ZIP: XOBC_013.bin
+2026-02-04 15:51:02,624 - INFO -     Added to ZIP: DefaultMaterial_baseColor_1001.png
+2026-02-04 15:51:02,926 - INFO -     Added to ZIP: DefaultMaterial_normal_1001.png
+2026-02-04 15:51:03,018 - INFO -     Added to ZIP: DefaultMaterial_occlusionRoughnessMetallic_1001.png
+2026-02-04 15:51:03,049 - INFO -   Created folder: XOBC_016/
+2026-02-04 15:51:03,051 - INFO -     Added to ZIP: XOBC_016.gltf
+2026-02-04 15:51:03,209 - INFO -     Added to ZIP: XOBC_016.bin
+2026-02-04 15:51:03,346 - INFO -     Added to ZIP: DefaultMaterial_baseColor_1001.png
+2026-02-04 15:51:03,685 - INFO -     Added to ZIP: DefaultMaterial_normal_1001.png
+2026-02-04 15:51:03,761 - INFO -     Added to ZIP: DefaultMaterial_occlusionRoughnessMetallic_1001.png
+2026-02-04 15:51:03,786 - INFO - 
+======================================================================
+2026-02-04 15:51:03,786 - INFO - SUMMARY
+2026-02-04 15:51:03,786 - INFO - ======================================================================
+2026-02-04 15:51:03,786 - INFO - Total products:        4
+2026-02-04 15:51:03,787 - INFO - Successfully processed: 4
+2026-02-04 15:51:03,787 - INFO - Failed:                0
+2026-02-04 15:51:03,787 - INFO - 
+Local Output: C:\Users\dpava\OneDrive\Desktop\file-automator\organized_products
+2026-02-04 15:51:03,787 - INFO - ======================================================================

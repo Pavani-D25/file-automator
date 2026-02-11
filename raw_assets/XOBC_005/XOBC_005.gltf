@@ -1,0 +1,204 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 9024,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1744,
+      "max": [
+        1.81236982345581,
+        1.33426344394684,
+        1.97707056999207
+      ],
+      "min": [
+        -2.38585090637207,
+        -1.33426737785339,
+        -0.321158468723297
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1744,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1744,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 1744,
+      "type": "VEC2"
+    }
+  ],
+  "asset": {
+    "generator": "Adobe Substance 3D Painter 11.0.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 36096,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 20928,
+      "byteOffset": 36096,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 20928,
+      "byteOffset": 57024,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 27904,
+      "byteOffset": 77952,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13952,
+      "byteOffset": 105856,
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 119808,
+      "uri": "XOBC_005.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "DefaultMaterial_baseColor_1001.png"
+    },
+    {
+      "uri": "DefaultMaterial_occlusionRoughnessMetallic_1001.png"
+    },
+    {
+      "uri": "DefaultMaterial_normal_1001.png"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "OPAQUE",
+      "name": "DefaultMaterial_1001",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "wavy chair",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 2,
+            "POSITION": 1,
+            "TANGENT": 3,
+            "TEXCOORD_0": 4
+          },
+          "indices": 0,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode",
+      "scale": [
+        0.00999999977648258,
+        0.00999999977648258,
+        0.00999999977648258
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "wavy chair",
+      "rotation": [
+        -0.707106828689575,
+        0.0,
+        0.0,
+        0.707106709480286
+      ],
+      "scale": [
+        100.0,
+        103.754592895508,
+        100.0
+      ],
+      "translation": [
+        0.0,
+        8.53187847137451,
+        0.0
+      ]
+    },
+    {
+      "mesh": 0,
+      "name": "wavy chair"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9985,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
